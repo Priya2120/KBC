@@ -1,0 +1,54 @@
+1.How many continents are there?
+Four
+Nine
+Seven
+Eight
+3
+2.What is the capital of India?
+Chandigarh
+Bhopal
+Chennai
+Delhi
+4
+3.NG mei kaun se course padhaya jaata hai?
+Counseling
+Software Engineering
+Tourism
+Agriculture
+2
+4.what is your name?
+priya
+payal
+sonam
+jaishree
+1
+5.Who is the richest man in the world?
+Jeff Bezos
+Bill Gates
+Donald Trump
+Me
+1
+6.What Indian city is the capital of two states?
+Chandigarh
+Kolkata
+Delhi    
+Banglore
+1
+7.Which city is the capital of India?
+Jaipur
+Delhi
+Chennai
+Mumbai
+2
+8.Smallest State of India?
+Rajasthan
+Punjab
+Goa
+Bihar
+3
+9.Where is Taj Mahal Located?
+Lucknow
+Agra
+Bhopal
+Delhi
+2
